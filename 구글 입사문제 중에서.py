@@ -13,3 +13,4 @@ for i in range(1,10001):
 
 result
 
+#https://codingdojang.com/scode/393?answer_mode=hide
